@@ -1,0 +1,6 @@
+owner=414555439536275459
+prefix=!KING
+game=LOVE AMR
+stayinchannel=true
+songinstatus=false
+token=NTQwMjQyNzE2MDg1NDUyODA2.DzOt9g.IWidJWUjLxgfZQQDgluyHMstkVU
